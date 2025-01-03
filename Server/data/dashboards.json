@@ -1,0 +1,22 @@
+[
+  {
+    "icon": "https://ik.imagekit.io/3a0xukows/windows.png?updatedAt=1735612916744",
+    "name": "Second Brain",
+    "caption": "All in one to manage your productivity",
+    "status": "Pro",
+    "price": 100000,
+    "notionUrl": "https://www.notion.so/PARA-Dashboard-16de9cf9298980b0aaa4c41b7ac5bd3b?pvs=4",
+    "imageUrl": "https://ik.imagekit.io/3a0xukows/Screenshot%20(11).png?updatedAt=1735624182051",
+    "categoryId": 1
+  },
+  {
+    "icon": "https://ik.imagekit.io/3a0xukows/book-of-black-cover-closed.png?updatedAt=1735612916665",
+    "name": "Student Dashboard",
+    "caption": "Study Planner",
+    "status": "Free",
+    "price": 0,
+    "notionUrl": "https://www.notion.so/Student-Dashboard-16de9cf9298980fbaaf3cbee403ee24d?pvs=4",
+    "imageUrl": "https://ik.imagekit.io/3a0xukows/Screenshot%20(12).png?updatedAt=1735624182273",
+    "categoryId": 2
+  }
+]
